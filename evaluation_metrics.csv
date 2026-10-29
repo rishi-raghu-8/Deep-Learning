@@ -1,0 +1,2 @@
+dataset_samples,features_per_image,train_samples,validation_samples,test_samples,epochs_completed,test_accuracy,macro_precision,macro_recall,macro_f1,test_loss,best_validation_loss
+1797,8x8 grayscale,1257,270,270,25,0.9629629629629629,0.9631379731379731,0.9627899877899878,0.9623937889320213,0.11271851283532602,0.13607791783633055
